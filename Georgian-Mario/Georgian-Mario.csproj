@@ -65,12 +65,61 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\sounds\1-up.mp3" />
+    <Content Include="assets\sounds\1-up.wav" />
+    <Content Include="assets\sounds\breakblock.mp3" />
+    <Content Include="assets\sounds\breakblock.wav" />
+    <Content Include="assets\sounds\bump.mp3" />
+    <Content Include="assets\sounds\bump.wav" />
+    <Content Include="assets\sounds\cannon.mp3" />
+    <Content Include="assets\sounds\cannon.wav" />
+    <Content Include="assets\sounds\coin.mp3" />
+    <Content Include="assets\sounds\coin.wav" />
+    <Content Include="assets\sounds\death.mp3" />
+    <Content Include="assets\sounds\death.wav" />
+    <Content Include="assets\sounds\exit.mp3" />
+    <Content Include="assets\sounds\exit.wav" />
+    <Content Include="assets\sounds\fireball.mp3" />
+    <Content Include="assets\sounds\fireball.wav" />
+    <Content Include="assets\sounds\jump.mp3" />
+    <Content Include="assets\sounds\jump.wav" />
+    <Content Include="assets\sounds\kick.mp3" />
+    <Content Include="assets\sounds\kick.wav" />
+    <Content Include="assets\sounds\mapmusic.mp3" />
+    <Content Include="assets\sounds\message.mp3" />
+    <Content Include="assets\sounds\message.wav" />
+    <Content Include="assets\sounds\pipe.mp3" />
+    <Content Include="assets\sounds\pipe.wav" />
+    <Content Include="assets\sounds\powerdown.mp3" />
+    <Content Include="assets\sounds\powerdown.wav" />
+    <Content Include="assets\sounds\powerup.mp3" />
+    <Content Include="assets\sounds\powerup.wav" />
+    <Content Include="assets\sounds\smb3map1.mid" />
+    <Content Include="assets\sounds\smb3map1.mp3" />
+    <Content Include="assets\sounds\smb3ovr1.mid" />
+    <Content Include="assets\sounds\smb3undr.mid" />
+    <Content Include="assets\sounds\smwfortress.mid" />
+    <Content Include="assets\sounds\smwovr1.mid" />
+    <Content Include="assets\sounds\smwovr2.mid" />
+    <Content Include="assets\sounds\smwtitle.mid" />
+    <Content Include="assets\sounds\smwtitle.mp3" />
+    <Content Include="assets\sounds\sprout.mp3" />
+    <Content Include="assets\sounds\sprout.wav" />
+    <Content Include="assets\sounds\stagestart.mp3" />
+    <Content Include="assets\sounds\stagestart.wav" />
+    <Content Include="assets\sounds\stomp.mp3" />
+    <Content Include="assets\sounds\stomp.wav" />
     <Content Include="css\normalize.css" />
     <Content Include="index.html" />
+    <Content Include="Scripts\lib\jquery-2.1.1.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="assets\images\" />
+    <Folder Include="Scripts\lib\gameFrame\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
