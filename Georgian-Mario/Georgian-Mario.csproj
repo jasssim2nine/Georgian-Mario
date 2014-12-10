@@ -111,7 +111,23 @@
     <Content Include="assets\sounds\stomp.wav" />
     <Content Include="css\normalize.css" />
     <Content Include="index.html" />
+    <Content Include="Scripts\lib\gameFrame\animatedSprite.js" />
+    <Content Include="Scripts\lib\gameFrame\application.js" />
+    <Content Include="Scripts\lib\gameFrame\camera.js" />
+    <Content Include="Scripts\lib\gameFrame\collideable.js" />
+    <Content Include="Scripts\lib\gameFrame\core.js" />
+    <Content Include="Scripts\lib\gameFrame\drawable.js" />
+    <Content Include="Scripts\lib\gameFrame\drawableManager.js" />
+    <Content Include="Scripts\lib\gameFrame\frameSprite.js" />
+    <Content Include="Scripts\lib\gameFrame\gameCanvas.js" />
+    <Content Include="Scripts\lib\gameFrame\gameTimer.js" />
+    <Content Include="Scripts\lib\gameFrame\keyboardInput.js" />
+    <Content Include="Scripts\lib\gameFrame\resources.js" />
+    <Content Include="Scripts\lib\gameFrame\sprite.js" />
+    <Content Include="Scripts\lib\gameFrame\spriteFont.js" />
+    <Content Include="Scripts\lib\gameFrame\state.js" />
     <Content Include="Scripts\lib\jquery-2.1.1.min.js" />
+    <None Include="Scripts\_references.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -119,7 +135,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="assets\images\" />
-    <Folder Include="Scripts\lib\gameFrame\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
